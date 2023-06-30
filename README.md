@@ -25,7 +25,8 @@ Este es un proyecto de lista de tareas utilizando la biblioteca Tkinter de Pytho
 
 ## Captura de pantalla
 
-![Todo List](screenshot.png)
+![Gato](images/todo image.jpg)
+
 
 ## Contribuciones
 
