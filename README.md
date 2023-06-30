@@ -1,20 +1,9 @@
-# Todo List - YeshuaContacto
-
-Este es un proyecto de lista de tareas utilizando la biblioteca Tkinter de Python y una base de datos SQLite.
+# Todo List con TkInter - YeshuaContacto
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
-
-## Requisitos
-
-- Python 3.x
-- Biblioteca Tkinter (incluida en la instalación estándar de Python)
-
-## Funcionalidades
-
-- Agregar nuevas tareas a la lista.
-- Marcar tareas como completadas o no completadas.
-- Eliminar tareas de la lista.
+![[https://mouredev.com/git](https://github.com/YeshuaContacto)](./todo-image.png)
 
 ## Instalación
 
@@ -25,10 +14,6 @@ Este es un proyecto de lista de tareas utilizando la biblioteca Tkinter de Pytho
 3. Instala la biblioteca Tkinter. Si estás utilizando una instalación estándar de Python, no deberías necesitar hacer nada adicional, ya que Tkinter ya está incluido. Si no lo tienes instalado, consulta la documentación oficial para obtener instrucciones sobre cómo instalar Tkinter en tu sistema.
 
 4. Ejecuta el archivo `todo.py` para iniciar la aplicación.
-
-## Captura de pantalla
-![https://mouredev.com/git](./todo-image.png)
-![Gato](images/todo image.jpg)
 
 
 ## Contribuciones
