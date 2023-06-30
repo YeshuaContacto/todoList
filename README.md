@@ -1,5 +1,4 @@
-# Todo List con TkInter - YeshuaContacto
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+# Todo List con TkInter - YeshuaContacto [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
