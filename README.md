@@ -1,6 +1,9 @@
 # Todo List - YeshuaContacto
 
 Este es un proyecto de lista de tareas utilizando la biblioteca Tkinter de Python y una base de datos SQLite.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
+
 
 ## Requisitos
 
