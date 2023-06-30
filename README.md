@@ -34,7 +34,3 @@ Las contribuciones son bienvenidas. Si deseas realizar mejoras o correcciones en
 ## Autor
 
 Este proyecto fue desarrollado por YeshuaContacto.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
