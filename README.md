@@ -24,7 +24,7 @@ Este es un proyecto de lista de tareas utilizando la biblioteca Tkinter de Pytho
 4. Ejecuta el archivo `todo.py` para iniciar la aplicación.
 
 ## Captura de pantalla
-![https://mouredev.com/git](./git_github_todo-image.png)
+![https://mouredev.com/git](./todo-image.png)
 ![Gato](images/todo image.jpg)
 
 
