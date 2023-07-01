@@ -3,15 +3,13 @@
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFD700?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 
-![[https://mouredev.com/git](https://github.com/YeshuaContacto)](./todo-image.png)
+![[https://github.com/YeshuaContacto](https://github.com/YeshuaContacto)](./todo-image.png)
 
 El proyecto es una lista de tareas implementada con Python y la biblioteca Tkinter. Permite al usuario agregar, eliminar y marcar como completadas diversas tareas. Además, utiliza una base de datos SQLite para almacenar la información de las tareas, lo que permite que los datos persistan entre sesiones.
 
 La interfaz gráfica está diseñada con Tkinter, proporcionando una experiencia intuitiva para el usuario. Cada tarea se muestra en la lista con la opción de marcarla como completada o eliminarla de la lista. Al agregar una nueva tarea, se inserta en la base de datos y se actualiza la lista de tareas de manera dinámica.
 
 Este proyecto es útil para aquellos que necesiten organizar sus tareas y llevar un registro de las actividades pendientes. Además, es un ejemplo práctico de cómo utilizar la biblioteca Tkinter y la base de datos SQLite en un proyecto de Python.
-
-Recuerda que esta descripción es solo una breve introducción y puedes personalizarla según las características y funcionalidades específicas de tu proyecto.
 
 ## Instalación
 
